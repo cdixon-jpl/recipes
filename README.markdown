@@ -1,4 +1,4 @@
-<h1>Spicy Shrimp and Penne with Puttanesca Sauce</h1>
+#Spicy Shrimp and Penne with Puttanesca Sauce
 
 
 <li>1 pound penne pasta </li>
