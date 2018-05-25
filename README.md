@@ -1,7 +1,7 @@
 #Spicy Shrimp and Penne with Puttanesca Sauce
 
 
-<li>1 pound penne pasta </li>
+1 pound penne pasta
 1/4 cup extra virgin olive oil
 8 garlic cloves, finely chopped
 2 tsp. crushed red pepper
