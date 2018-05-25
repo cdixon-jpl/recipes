@@ -1,8 +1,4 @@
----
-header
----
-
-#Spicy Shrimp and Penne with Puttanesca Sauce
+---Spicy Shrimp and Penne with Puttanesca Sauce---
 
 
 *1 pound penne pasta
