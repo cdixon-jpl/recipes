@@ -1,5 +1,6 @@
-#Spicy Shrimp and Penne with Puttanesca Sauce
+<h1>Spicy Shrimp and Penne with Puttanesca Sauce</h1>
 
+<li>
 1 pound penne pasta
 1/4 cup extra virgin olive oil
 8 garlic cloves, finely chopped
@@ -11,6 +12,7 @@
 1 14-oz. can of diced tomatoes
 1 pound shrimp, peeled and deveined
 2 handfuls of fresh flat-leaf parsely leaves, finely chopped
+  </li>
 
 
 Place a pot of water to boil, once boiling, add the penne and salt.
