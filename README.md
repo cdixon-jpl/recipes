@@ -17,3 +17,4 @@
 Place a pot of water to boil, once boiling, add the penne and salt.
 
 While the pasta cooks, heat a large, deep skillet over medium heat.  Add the anchovies, olive oil, garlic and red pepper flakes.  Break up the fish with a wooden spoon until they melt into the oil.  Add the olives, capers and tomatoes.  Bring the sauce to a bubble and add the shrimp, scattering them in a single layer.  Cover the pan to cook the shrimp, 3 to 4 minutes.  Uncover the pan and add the parsley.
+adding changes in the Caltech training class. Don't mess with the recipe it's perfect. 
